@@ -1,3 +1,4 @@
 # jdhenshaw.github.io
 My homepage
-https://jdhenshaw.github.io
+
+Now redirects to www.jdhenshaw.com
